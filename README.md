@@ -1,5 +1,6 @@
 ### 算法学习
 [**Zlibrary**](https://zh.singlelogin.re/) 
+> 访问不了请打开魔法
 > 可以在里面找到《算法竞赛进阶指南》的pdf
 > 
 ---
